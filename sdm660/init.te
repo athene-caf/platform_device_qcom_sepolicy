@@ -1,0 +1,2 @@
+#rawdump
+allow init rawdump_block_device:blk_file setattr;
